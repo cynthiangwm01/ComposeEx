@@ -1,4 +1,4 @@
-package com.example.composeex.ui.theme
+package com.example.composeex.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
