@@ -32,7 +32,7 @@ fun ManufacturersScreen(
                     ManufacturersItem(
                         manufacturerContent = manufacturerContent,
                         onItemClicked = {
-                            navController.navigate(Routes.ManufacturerDetailScreen.route + "/${manufacturerContent?.mfrID}")
+                            navController.navigate(Routes.ManufacturerDetailScreenRoute.route + "/${manufacturerContent?.mfrID}")
                         }
                     )
                 }
