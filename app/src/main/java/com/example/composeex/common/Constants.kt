@@ -5,8 +5,9 @@ object Constants {
     //general
     const val BASE_URL = "https://vpic.nhtsa.dot.gov/"
 
-    //param
-    const val PARAM_MANUFACTURER_ID = "manufacturerId"
+    //route param
+    const val PARAM_MANUFACTURER_ID = "PARAM_MANUFACTURER_ID"
+    const val PARAM_COMPONENT_ID = "PARAM_COMPONENT_ID"
 
     //route
     const val ROUTE_HOME_SCREEN = "ROUTE_HOME_SCREEN"
@@ -23,6 +24,4 @@ object Constants {
     const val ID_LAZY_COLUMN = 6
     const val ID_LAZY_ROW = 7
     const val ID_CONSTRAINT_LAYOUT = 8
-    const val ID_ANIMATION = 9
-    const val ID_API_CALL = 10
 }

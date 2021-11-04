@@ -59,34 +59,34 @@
 //        )
 //
 //        setContent {
-////            ColumnComponent()
-////            RowComponent()
-////            WithModifier()
+//            ColumnComponent()
+//            RowComponent()
+//            WithModifier()
 //
-////            Box(
-////                Modifier
-////                    .padding(16.dp)
-////                    .fillMaxWidth(0.5f)
-////            ) {
-////                ImageCardComponent(
-////                    painterResource(id = R.drawable.demo),
-////                    "reading image's content description",
-////                    "here is the title"
-////                )
-////            }
+//            Box(
+//                Modifier
+//                    .padding(16.dp)
+//                    .fillMaxWidth(0.5f)
+//            ) {
+//                ImageCardComponent(
+//                    painterResource(id = R.drawable.demo),
+//                    "reading image's content description",
+//                    "here is the title"
+//                )
+//            }
 //
-////            StylingText(fontFamily = fontFamily)
+//            StylingText(fontFamily = fontFamily)
 //
-////            ColorBoxComponent(Modifier.fillMaxSize())
+//            ColorBoxComponent(Modifier.fillMaxSize())
 //
-////            Snackbar {
-////                Text(text = "Hello Cynthia")
-////            }
-////            TextviewAndSnackbar()
+//            Snackbar {
+//                Text(text = "Hello Cynthia")
+//            }
+//            TextviewAndSnackbar()
 //
-////            LazyColumnComposable()
+//            LazyColumnComposable()
 //
-////            ConstraintLayoutInCompose()
+//            ConstraintLayoutInCompose()
 //        }
 //    }
 //}

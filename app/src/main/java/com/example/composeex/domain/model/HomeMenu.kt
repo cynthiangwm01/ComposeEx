@@ -1,4 +1,7 @@
 package com.example.composeex.domain.model
 
-data class HomeMenu(val id: Int, val title: String, val route: String)
+import androidx.annotation.DrawableRes
+import androidx.compose.ui.graphics.painter.Painter
+
+data class HomeMenu(val title: String, val route: String)
 
